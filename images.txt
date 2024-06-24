@@ -3,4 +3,5 @@ docker.io/redis:6.2-alpine
 ghcr.io/open-webui/open-webui:main
 ghcr.io/gethomepage/homepage:latest
 ghcr.io/immich-app/immich-machine-learning:release
+ghcr.io/immich-app/immich-machine-learning:release-openvino
 ghcr.io/immich-app/immich-server:release
