@@ -5,3 +5,4 @@ ghcr.io/gethomepage/homepage:latest
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-machine-learning:release-openvino
 ghcr.io/immich-app/immich-server:release
+nyanmisaka/jellyfin:240401-amd64
