@@ -2,9 +2,9 @@ tensorchord/pgvecto-rs:pg14-v0.2.0
 docker.io/redis:6.2-alpine
 ghcr.io/open-webui/open-webui:main
 ghcr.io/gethomepage/homepage:latest
-ghcr.io/immich-app/immich-machine-learning:release
-ghcr.io/immich-app/immich-machine-learning:release-openvino
-ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:v1.111.0
+ghcr.io/immich-app/immich-machine-learning:v1.111.0-openvino
+ghcr.io/immich-app/immich-server:v1.111.0
 nyanmisaka/jellyfin:240401-amd64
 nextstrain/base:build-20240725T184502Z
 nextstrain/nextclade_builder:cross-x86_64-unknown-linux-gnu
