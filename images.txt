@@ -9,3 +9,4 @@ nyanmisaka/jellyfin:240401-amd64
 nextstrain/base:build-20240725T184502Z
 nextstrain/nextclade_builder:cross-x86_64-unknown-linux-gnu
 ollama/ollama:0.3.9
+ollama/ollama:0.3.9-rocm
