@@ -2,6 +2,7 @@ tensorchord/pgvecto-rs:pg14-v0.2.0
 docker.io/redis:6.2-alpine
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:v0.3.21
+ghcr.io/open-webui/open-webui:v0.3.21-cuda
 ghcr.io/gethomepage/homepage:latest
 ghcr.io/immich-app/immich-machine-learning:v1.111.0
 ghcr.io/immich-app/immich-machine-learning:v1.111.0-openvino
@@ -16,3 +17,5 @@ mintplexlabs/anythingllm:latest
 langgenius/dify-api:0.7.3
 langgenius/dify-web:0.7.3
 langgenius/dify-sandbox:0.2.6
+savatar101/omniparse:0.1
+
