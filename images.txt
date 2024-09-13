@@ -1,6 +1,5 @@
 tensorchord/pgvecto-rs:pg14-v0.2.0
 docker.io/redis:6.2-alpine
-ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:v0.3.21
 ghcr.io/open-webui/open-webui:v0.3.21-cuda
 ghcr.io/open-webui/pipelines:main
