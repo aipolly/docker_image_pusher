@@ -18,4 +18,4 @@ langgenius/dify-api:0.7.3
 langgenius/dify-web:0.7.3
 langgenius/dify-sandbox:0.2.6
 savatar101/omniparse:0.1
-
+bfrbioinformatics/chewiesnake:3.2.1 
