@@ -3,6 +3,7 @@ docker.io/redis:6.2-alpine
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:v0.3.21
 ghcr.io/open-webui/open-webui:v0.3.21-cuda
+ghcr.io/open-webui/pipelines:main
 ghcr.io/gethomepage/homepage:latest
 ghcr.io/immich-app/immich-machine-learning:v1.111.0
 ghcr.io/immich-app/immich-machine-learning:v1.111.0-openvino
