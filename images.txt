@@ -21,3 +21,4 @@ savatar101/omniparse:0.1
 bfrbioinformatics/chewiesnake:3.2.1
 rocker/verse:4.4.1
 rocker/tidyverse:4.4.1
+ncbi/pgap:2024-07-18.build7555
